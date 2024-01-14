@@ -13,4 +13,4 @@ Apasionado aprendiz de programación enfocado en el desarrollo front-end. Con co
 
 - **HTML** 
 - **CSS**
-- **Un poco de javaScrip, tamo en proceso de esa mierda**-
+- **Un poco de javaScrip, tamo en proceso de esa mierda**
